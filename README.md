@@ -54,5 +54,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
 
   ### 📊 Estatísticas
 
-  ![Mimesse´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimesse&show_icons=true)
-          
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200px" 
+    style="padding-right: 10 px;" 
+  src="https://github-readme-stats.vercel.app/api?username=Mimesse&show_icons=true&theme=tokyonight&locale=pt-br" 
+  />
+ 
+      
