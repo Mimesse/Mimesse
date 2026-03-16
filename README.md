@@ -46,5 +46,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-origina
     title="JavaScript"
     width="30px" 
     style="padding-right: 10 px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+  />
+
+  <br/>
+  <br/>
+
+  ### 📊 Estatísticas
+
+  ![Mimesse´s GitHub stats](https://github-readme-stats.vercel.app/api?username=Mimesse&show_icons=true)
           
