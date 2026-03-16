@@ -10,13 +10,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzei
 
 ### 🤖 Linguagens e Tecnologias
 
-
-<img
-  align = "left"
-  alt="JAVA"
-  title="JAVA" 
-  idth="30px" 
-  style="padding-right: 10 px;"
+ <img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10 px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   
   
