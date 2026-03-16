@@ -12,7 +12,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzei
 
 
 <img
-  aline = "left"
+  align = "left"
   alt="JAVA"
   title="JAVA" 
   idth="30px" 
@@ -21,7 +21,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pela Universidade Cruzei
   
   
 <img
-  aline = "left"
+  align = "left"
   alt="PYTHON"
   title="PYTHON" 
   idth="30px" 
